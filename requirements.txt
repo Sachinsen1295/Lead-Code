@@ -1,6 +1,13 @@
+flask
+scikit-learn
 pandas
 numpy
+flask_cors
+pickle5
+gunicorn
+Jinja2
+scipy
+Werkzeug
 matplotlib
 seaborn
-sklearn
-pickle
+pickle-mixin
